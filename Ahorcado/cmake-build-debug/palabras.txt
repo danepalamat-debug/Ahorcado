@@ -1,0 +1,10 @@
+perro
+gato
+caballo
+leon
+tigre
+correr
+mariposa
+cocodrilo
+conejo
+pirata
